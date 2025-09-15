@@ -6,7 +6,7 @@ This project focuses on building a **lightweight, real-time SLAM (Simultaneous L
 The system leverages **CUDA C++ acceleration** to handle computationally heavy tasks efficiently, enabling fast and accurate environment mapping and camera pose tracking.
 
 ---
-![SLAM Concept](image.png)
+![SLAM Concept](SupportFile/image.png)
 
 ## Key Features
 - **Monocular Vision Input**  
