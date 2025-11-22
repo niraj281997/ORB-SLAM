@@ -3,6 +3,7 @@
 
 This demo performs **feature detection using the FAST algorithm** on live webcam frames.  
 
+
 ### 🔧 Steps Involved  
 1. Capture frames from the webcam  
 2. Convert each frame to grayscale  
