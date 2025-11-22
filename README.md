@@ -80,4 +80,4 @@ The system leverages **CUDA C++ acceleration** to handle computationally heavy t
 
 ## Summary
 This project delivers a **real-time, lightweight SLAM system** that combines **monocular vision** with **CUDA C++ acceleration** to achieve fast feature extraction, efficient matching, and reliable environment mapping.  
-It demonstrates how GPU computing can push the limits of SLAM on both embedded and desktop platforms.
+
