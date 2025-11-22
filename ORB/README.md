@@ -12,10 +12,5 @@ This demo performs **feature detection and tracking using ORB** on live webcam f
 Essentially, this acts as a **simple visual tracking system using ORB**.  
 
 ---
-
-### 📌 Output Demo  
-[▶️ Watch the output video](ORB_Demo.mov)  
-
----
 ### Example Frame
 ![ORB Tracking Screenshot](ORB.png) 
