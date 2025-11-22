@@ -11,12 +11,8 @@ This demo performs **feature detection using the FAST algorithm** on live webcam
 4. Draw detected keypoints (green dots) on the frame  
 5. Display the result in a window called **"FAST Features"**  
 
----
-
-### 📌 Output Demo  
-[▶️ Watch the output video](output.mp4)  
 
 ---
 
-### Example Frame (Screenshot)  
+### Example Frame
 ![FAST Keypoints Screenshot](FAST.png)  
