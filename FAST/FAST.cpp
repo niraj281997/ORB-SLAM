@@ -4,6 +4,7 @@
 
 using namespace cv;
 using namespace std;
+
 /*
  *   1. Captures frames from the webcam
  *   2. Converts them to grayscale
